@@ -4,11 +4,11 @@ Here you will find all the info about my modified Two Trees Sapphire Pro (sp3)!
   - MKS Robin nano v1.2
   - TMC 2208 drivers in uart mode
   - Klipperscreen on an old android tablet
-  - Diamond toolhead by laurienzudesign
+  - Diamond toolhead by laurienzudesign - https://www.printables.com/model/169465-the-diamond-mount
   - Orbiter v2 with orbiter filament sensor
   - Mosquito hotend clone
   - Fysetc portable input shaper (PIS) accelerometer
-  - Modified dual z plate (original by many)
+  - Modified dual z plate (original by many - https://www.printables.com/model/174690-sapphire-pro-dual_z-mod)
   - Custom acrylic enclousure
-  - Enclousure top by KFORMS
-  - Bento Box air filter by thrutheframe
+  - Enclousure top by KFORMS - https://www.printables.com/model/333872-two-trees-sapphire-pro-sp-3-3d-printer-top-enclosu
+  - Bento Box air filter by thrutheframe - https://www.printables.com/model/272525-bentobox-v20-carbon-filter-for-bambu-lab-x1c-enclo
