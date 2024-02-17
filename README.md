@@ -7,6 +7,7 @@ Here you will find all the info about my modified Two Trees Sapphire Pro (sp3)!
   - Diamond toolhead by laurienzudesign
   - Orbiter v2 with orbiter filament sensor
   - Mosquito hotend clone
+  - Fysetc portable input shaper (PIS) accelerometer
   - Modified dual z plate (original by many)
   - Custom acrylic enclousure
   - Enclousure top by KFORMS
